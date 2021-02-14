@@ -1,0 +1,20 @@
+@media only screen and (max-width:900px){
+  
+html {
+  font-size: 20px;
+}
+  #serv-box {
+  grid-template-columns:22rem;
+}
+
+.serv-item {
+  display:flex;
+  flex-direction:column-reverse;
+}
+
+.serv-item{
+  width:80%;
+  margin:0 auto;
+}
+
+}
